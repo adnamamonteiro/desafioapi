@@ -12,12 +12,12 @@
 	Ficando a sua escolha o design das telas.
 </p>
 
-#### Para Cliente:
+### Para Cliente:
 
 - [x] Cadastrar Cliente 
 - [x] Listar Cliente
 
-#### Para aluguéis de carro:
+### Para aluguéis de carro:
 
 - [x] Desenvolva a funcionalidade de aluguéis de carros
 
@@ -29,7 +29,7 @@
 	A locadora só permite que um cliente alugue um carro por vez e um mesmo carro só poderá ser alugado para outro cliente no momento que ele encontrar-se disponível novamente.
 </p>
 
-#### Desafio bônus de implementação:
+### Desafio bônus de implementação:
 
 - [x] Evoluir a funcionalidade de “listar carros” para diferenciar carros
 disponíveis dos carros alugados e exibir o atual locatário
@@ -40,4 +40,7 @@ um carro alugado e qual modelo
 - [x] Criar a funcionalidade “exibir histórico de cliente” e apresentar o
 histórico de todos os carros que o cliente já alugou
 
-##### [Front-end do projeto](https://github.com/adnamamonteiro/desafiofront)
+### Deploy da aplicação
+[API](https://autolocadora-api.herokuapp.com/swagger-ui/index.html)
+
+#### [Front-end do projeto](https://github.com/adnamamonteiro/desafiofront)
