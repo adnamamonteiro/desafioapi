@@ -35,7 +35,7 @@ public class ClienteRest {
     EnderecoService enderecoService;
 	
 	@POST
-	@Path("")
+	@Path("/cadastrar")
 	@Operation(summary = "Cadastrar cliente",
     description = "Cadastra um cliente")
 	@APIResponse(responseCode = "201",
