@@ -2,8 +2,8 @@
 
 <p>
 	Este projeto foi desenvolvido com Quarkus, como desafio final da Maratona Dev Stefanini.
-	[Link para api](https://autolocadora-api.herokuapp.com/swagger-ui/index.html#/)
 </p>
+[Link para api](https://autolocadora-api.herokuapp.com/swagger-ui/index.html#/)
 
 ## O Desafio
 
