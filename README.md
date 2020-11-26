@@ -26,7 +26,7 @@
 </p>
 
 <p>
-	A locadora só permite que um cliente alugue um carro por vez e um mesmo carro só poderá ser alugado para outro cliente </br>no momento que ele encontrar-se disponível novamente.
+	A locadora só permite que um cliente alugue um carro por vez e um mesmo carro só poderá ser alugado para outro cliente no momento que ele encontrar-se disponível novamente.
 </p>
 
 #### Desafio bônus de implementação:
